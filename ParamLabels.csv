@@ -63551,6 +63551,7 @@
 0x13a04309a6,standard_staffroll3
 0x133e279c05,standard_staffroll4
 0x134920ac93,standard_staffroll5
+0x13d029fd29,standard_staffroll6
 0x1ab7a1892f,standard_stage_electricity
 0x14b74fb29d,standard_stage_flame
 0x14aaba11a3,standard_stage_glass
@@ -71136,6 +71137,7 @@
 0x1e53c5eb5a,ui_lottery_standard_staffroll3
 0x1ecda17ef9,ui_lottery_standard_staffroll4
 0x1ebaa64e6f,ui_lottery_standard_staffroll5
+0x1e23af1fd5,ui_lottery_standard_staffroll6
 0x200d1f915b,ui_lottery_standard_tktoff1_lose
 0x1f58be9207,ui_lottery_standard_tktoff1_win
 0x208b8be3f5,ui_lottery_standard_tktoff2_lose
